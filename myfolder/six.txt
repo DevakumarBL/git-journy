@@ -2,3 +2,4 @@ six
 6
 666
 333
+implement stash
